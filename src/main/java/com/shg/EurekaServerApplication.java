@@ -6,7 +6,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
- * <p>Description: </p>
+ * <p>Description: 项目启动类</p>
  * Created on  2020/7/29 14:49
  *
  * @author <a href="mailto: sunhongguang@camelotchina.com">孙红光</a>
